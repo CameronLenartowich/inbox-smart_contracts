@@ -1,0 +1,17 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "learning solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Cameron Lenartowich",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^8.3.0",
+    "solc": "^0.4.25",
+    "web3": "^1.3.4"
+  }
+}
